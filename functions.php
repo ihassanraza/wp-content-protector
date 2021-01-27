@@ -2,7 +2,7 @@
 /**
  * This is the main functions file 
  * 
- *  * PHP version        7.2
+ * PHP version        7.2
  * 
  * @category Content
  * 
