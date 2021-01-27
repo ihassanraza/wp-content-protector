@@ -50,7 +50,7 @@
                 </div>
                 <hr>
                 
-                <!-- Cut Copy -->
+                <!-- Cut Copy Paste -->
                 <div class="row mt-3">
                     
                     <div class="col-lg-10">
